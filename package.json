@@ -1,0 +1,14 @@
+{
+  "name": "quoteify",
+  "version": "1.0.0",
+  "description": "100+ quotes available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bikash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

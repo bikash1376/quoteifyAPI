@@ -1,0 +1,549 @@
+[
+    {
+      "id": 1,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 2,
+      "text": "Innovation distinguishes between a leader and a follower.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 3,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 4,
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins"
+    },
+    {
+      "id": 5,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 6,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 7,
+      "text": "You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.",
+      "author": "Madeleine L'Engle"
+    },
+    {
+      "id": 8,
+      "text": "If you don't have time to read, you don't have the time (or the tools) to write. Simple as that.",
+      "author": "Stephen King"
+    },
+    {
+      "id": 9,
+      "text": "We write to taste life twice, in the moment and in retrospect.",
+      "author": "Anaïs Nin"
+    },
+    {
+      "id": 10,
+      "text": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.",
+      "author": "Toni Morrison"
+    },
+  
+    {
+      "id": 11,
+      "text": "You never have to change anything you got up in the middle of the night to write.",
+      "author": "Saul Bellow"
+    },
+  
+    {
+      "id": 12,
+      "text": "No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader.",
+      "author": "Robert Frost"
+    },
+  
+    {
+      "id": 13,
+      "text": "You must stay drunk on writing so reality cannot destroy you.",
+      "author": "Ray Bradbury, Zen in the Art of Writing"
+    },
+  
+    {
+      "id": 14,
+      "text": "Words can be like X-rays if you use them properly",
+      "author": "Aldous Huxley, Brave New World"
+    },
+  
+    {
+      "id": 15,
+      "text": "How vain it is to sit down to write when you have not stood up to live.",
+      "author": "Henry David Thoreau"
+    },
+  
+    {
+      "id": 16,
+      "text": "I can shake off everything as I write; my sorrows disappear, my courage is reborn.",
+      "author": "Anne Frank"
+    },
+  
+    {
+      "id": 17,
+      "text": "A writer is someone for whom writing is more difficult than it is for other people.",
+      "author": "Thomas Mann, Essays of Three Decades"
+    },
+  
+    {
+      "id": 18,
+      "text": "Let me live, love, and say it well in good sentences.",
+      "author": "Sylvia Plath, The Unabridged Journals of Sylvia Plath"
+    },
+  
+    {
+      "id": 19,
+      "text": "Here is a lesson in creative writing. First rule: Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college.",
+      "author": "Kurt Vonnegut Jr., A Man Without a Country"
+    },
+  
+    {
+      "id": 20,
+      "text": "Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.",
+      "author": "Franz Kafka"
+    },
+  
+    {
+      "id": 21,
+      "text": "I kept always two books in my pocket, one to read, one to write in.",
+      "author": "Robert Louis Stevenson"
+    },
+  
+    {
+      "id": 22,
+      "text": "You can make anything by writing.",
+      "author": "C.S. Lewis"
+    },
+  
+    {
+      "id": 23,
+      "text": "A word after a word after a word is power.",
+      "author": "Margaret Atwood"
+    },
+  
+    {
+      "id": 24,
+      "text": "Tears are words that need to be written.",
+      "author": "Paulo Coelho"
+    },
+  
+    {
+      "id": 25,
+      "text": "You should write because you love the shape of stories and sentences and the creation of different words on a page. Writing comes from reading, and reading is the finest teacher of how to write.",
+      "author": "Annie Proulx"
+    },
+  
+    {
+      "id": 26,
+      "text": "Writing is like sex. First you do it for love, then you do it for your friends, and then you do it for money.",
+      "author": "Virginia Woolf"
+    },
+  
+    {
+      "id": 27,
+      "text": "To survive, you must tell stories.",
+      "author": "Umberto Eco, The Island of the Day Before"
+    },
+  
+    {
+      "id": 28,
+      "text": "Always be a poet, even in prose.",
+      "author": "Charles Baudelaire"
+    },
+  
+    {
+      "id": 29,
+      "text": "If my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster.",
+      "author": "Isaac Asimov"
+    },
+  
+    {
+      "id": 30,
+      "text": "The purpose of a writer is to keep civilization from destroying itself.",
+      "author": "Albert Camus"
+    },
+  
+    {
+      "id": 31,
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "id": 32,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+      },
+  {
+      "id": 33,
+      "text": "In the midst of chaos, there is also opportunity.",
+      "author": "Sun Tzu"
+      },
+  {
+      "id": 34,
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+      },
+  {
+      "id": 35,
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+      },
+  {
+      "id": 36,
+      "text": "The journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu"
+      },
+      {
+      "id": 37,
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau"
+      },
+      {
+      "id": 38,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+      },
+  {
+      "id": 39,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+      },
+  {
+      "id": 40,
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+      },
+  {
+      "id": 41,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+      },
+  {
+      "id": 42,
+      "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort"
+      },
+  {
+      "id": 43,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+      },
+  {
+      "id": 44,
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+      },
+  {
+      "id": 45,
+      "text": "The secret to success is to know something nobody else knows.",
+      "author": "Aristotle Onassis"
+      },
+  {
+      "id": 46,
+      "text": "Success is not in what you have, but who you are.",
+      "author": "Bo Bennett"
+      },
+  {
+      "id": 47,
+      "text": "The harder I work, the luckier I get.",
+      "author": "Samuel Goldwyn"
+      },
+  {
+      "id": 48,
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee"
+      },
+  {
+      "id": 49,
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+      },
+  {
+      "id": 50,
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+      },
+  {
+      "id": 51,
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+      },
+  {
+      "id": 52,
+      "text": "Success is not the absence of failure; it's the persistence through failure.",
+      "author": "Aisha Tyler"
+      },
+  {
+      "id": 53,
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson"
+      },
+  {
+      "id": 54,
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau"
+      },
+  {
+      "id": 55,
+      "text": "The only place where success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon"
+      },
+  {
+      "id": 56,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+      },
+  {
+      "id": 57,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+      },
+  {
+      "id": 58,
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+      },
+  {
+      "id": 59,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+      },
+  {
+      "id": 60,
+      "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort"
+      },
+  {
+      "id": 61,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+      },
+  {
+      "id": 62,
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+      },
+  {
+      "id": 63,
+      "text": "The secret to success is to know something nobody else knows.",
+      "author": "Aristotle Onassis"
+      },
+  {
+      "id": 64,
+      "text": "Success is not in what you have, but who you are.",
+      "author": "Bo Bennett"
+      },
+  {
+      "id": 65,
+      "text": "The harder I work, the luckier I get.",
+      "author": "Samuel Goldwyn"
+      },
+  {
+      "id": 66,
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee"
+      },
+  {
+      "id": 67,
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+      },
+  {
+      "id": 68,
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+      },
+  {
+      "id": 69,
+      "text": "Success is not the absence of failure; it's the persistence through failure.",
+      "author": "Aisha Tyler"
+      },
+  {
+      "id": 70,
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson"
+      },
+  {
+      "id": 71,
+      "text": "The only place where success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon"
+      },
+  {
+      "id": 72,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+      },
+  {
+      "id": 73,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+      },
+  {
+      "id": 74,
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+      },
+  {
+      "id": 75,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+      },
+  {
+      "id": 76,
+      "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort"
+      },
+  {
+      "id": 77,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+      },
+  {
+      "id": 78,
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+      },
+  {
+      "id": 79,
+      "text": "The secret to success is to know something nobody else knows.",
+      "author": "Aristotle Onassis"
+      },
+  {
+      "id": 80,
+      "text": "Success is not in what you have, but who you are.",
+      "author": "Bo Bennett"
+      },
+  {
+      "id": 81,
+      "text": "The harder I work, the luckier I get.",
+      "author": "Samuel Goldwyn"
+      },
+  {
+      "id": 82,
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee"
+      },
+  {
+      "id": 83,
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+      },
+  {
+      "id": 84,
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+      },
+  {
+      "id": 85,
+      "text": "Success is not the absence of failure; it's the persistence through failure.",
+      "author": "Aisha Tyler"
+      },
+  {
+      "id": 86,
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson"
+      },
+  {
+      "id": 87,
+      "text": "The only place where success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon"
+      },
+  {
+      "id": 88,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+      },
+  {
+      "id": 89,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+      },
+  {
+      "id": 90,
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+      },
+  {
+      "id": 91,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+      },
+  {
+      "id": 92,
+      "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort"
+      },
+  {
+      "id": 93,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+      },
+  {
+      "id": 94,
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+      },
+  {
+      "id": 95,
+      "text": "The secret to success is to know something nobody else knows.",
+      "author": "Aristotle Onassis"
+      },
+  {
+      "id": 96,
+      "text": "Success is not in what you have, but who you are.",
+      "author": "Bo Bennett"
+      },
+  {
+      "id": 97,
+      "text": "The harder I work, the luckier I get.",
+      "author": "Samuel Goldwyn"
+      },
+  {
+      "id": 98,
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee"
+      },
+  {
+      "id": 99,
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+      },
+      {
+      "id": 100,
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+      },
+      {
+        "id": 101,
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela"
+        },
+        {
+        "id": 102,
+        "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer"
+        },
+        {
+        "id": 103,
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+        },
+        {
+        "id": 104,
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+        },
+        {
+        "id": 105,
+        "text": "The best preparation for tomorrow is doing your best today.",
+        "author": "H. Jackson Brown Jr."
+        }
+  ]
+  
